@@ -1,5 +1,5 @@
 #                                          💫 Hi 👋, I'm Seema H
- #                                  I'm currently Trainee of Data Analyst
+ #                                           Data Analyst Trainee
 <br>Advanced Excel, Data visualization and modelling using Power BI, SQL Database management system,<br>Tableau.<br>Basic C and C++ coding knowledge
 
 
