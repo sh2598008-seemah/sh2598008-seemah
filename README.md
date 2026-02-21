@@ -1,12 +1,14 @@
 #                                          💫 Hi 👋, I'm Seema H
  #                                           Data Analyst Trainee
-<br> Currently learnig Advanced Excel,
+<br>🌱 Currently learnig Advanced Excel,
 
 Data visualization and modelling using Power BI, 
 
 SQL Database management system,<br>Tableau.
 
 I’m currently Trainee of Data Analytics at Besant Technologies bengaluru
+
+💻 All of my projects are available on GitHub
 
 
 ## 🌐 Socials:
